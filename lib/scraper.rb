@@ -37,4 +37,3 @@ attr_accessor :title, :schedule, :description
 end
 
 Scraper.new.print_courses
-
